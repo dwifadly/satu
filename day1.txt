@@ -1,0 +1,19 @@
+membedakakan it dan github
+version controling
+
+PROMT ENGINEERING
+role task context format
+
+MENINGKATKAN performa ai
+mengurangi bias
+meningkantkan kontrol
+memberikan pengalamaN YANG lebih baik
+
+git adalah vertion control systen
+
+working directory
+working syrectory
+
+get init tempat resiptory
+get add memindahkan file ke staging area
+commit menimmppam
